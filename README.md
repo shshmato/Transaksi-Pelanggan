@@ -1,1 +1,3 @@
 Sebuah mini program yang menghitung transaksi pelanggan dengan mengentrikan jumlah barang yang dibeli dan harga barangnya. 
+Setiap item barang (jumlah dan harga) dientrikan satu persatu dan setiap kali selesai mengentrikan sebuah item barang selalu ditanya “Apakah ada lagi item barang yang dientrikan atau tidak? [y]/[t]”. Apabila diketik karakter “y” maka pedagang tersebut akan mengentrikan item barang selanjutnya, namun apabila diketik karakter “t” maka proses entri barang akan berhenti dan kemidian total harga barang akan ditampilkan di layer. Akan tetapi apabila Ketika dijawab selain “y” dan “t” maka aplikasi akan memunculkan pertanyaan yang sama  yaitu “Apakah ada lagi item barang yang dientrikan atau tidak? [y]/[t]”. 
+
